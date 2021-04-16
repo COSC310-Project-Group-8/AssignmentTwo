@@ -4,7 +4,6 @@ sup
 what' up
 what up
 hey
-good day
 .Hi, welcome to GymBot! How can I help you?
 time
 timing
